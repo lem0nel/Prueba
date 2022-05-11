@@ -8,4 +8,4 @@ Cuando el cuerpo de un archivo se ve modificado y existe más de una bifurcació
 
 >This is an edit made from the web.
 
-## Dos ramas al mismo tiempo
+## Dos ramas
