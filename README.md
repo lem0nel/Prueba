@@ -9,3 +9,5 @@ Cuando el cuerpo de un archivo se ve modificado y existe más de una bifurcació
 ## Nuevo desafío
 
 A veces puede parecer complicado entender cómo es que realmente funcionan estas cosas, pero en la práctica son bastante más sencillas de lo que aparentan ser. Probaré aplicar cambios en el main y llevarlos a una rama.
+
+Ahora bien, una práctica que se puede adoptar fácilmente es mantener los dos cambios cuando se realiza un `merge` y el mismo contiene un error. Puede haber ocurrido que en realidad hay dos versiones del código que insertan cosas distintas. Al aceptar los dos cambios es posible mantener ambos bloques de código o texto y estilizarlos para su posterior inserción en la rama `main`.
