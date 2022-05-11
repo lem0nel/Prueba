@@ -8,4 +8,6 @@ Cuando el cuerpo de un archivo se ve modificado y existe más de una bifurcació
 
 >This is an edit made from the web.
 
-## Dos ramas
+## Nuevo desafío
+
+A veces puede parecer complicado entender cómo es que realmente funcionan estas cosas, pero en la práctica son bastante más sencillas de lo que aparentan ser. Probaré aplicar cambios en el main y llevarlos a una rama.
