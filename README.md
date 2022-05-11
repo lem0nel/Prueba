@@ -9,3 +9,5 @@ Cuando el cuerpo de un archivo se ve modificado y existe más de una bifurcació
 ## Nuevo desafío: comprensión del manejo de ramas
 
 A veces puede parecer complicado entender cómo es que realmente funcionan estas cosas, pero en la práctica son bastante más sencillas de lo que aparentan ser. Probaré aplicar cambios en el main y llevarlos a una rama.
+
+## Realizando *merges* contra la corriente
